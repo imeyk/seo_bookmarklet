@@ -74,17 +74,17 @@ xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;s
 
                             <ul>
                                 <li>
-                                    <b>Show</b>
+                                    <b>Показать</b>
                                     <ul>
-                                        <li><a href="javascript:void(0);" data-func="vwHeads">Headings</a></li>
-                                        <li><a href="javascript:void(0);" data-func="vwLinks">Links</a></li>
-                                        <li><a href="javascript:void(0);" data-func="vwKeys">Keywords</a></li>
+                                        <li><a href="javascript:void(0);" data-func="vwHeads">Заголовки</a></li>
+                                        <li><a href="javascript:void(0);" data-func="vwLinks">Ссылки</a></li>
+                                        <li><a href="javascript:void(0);" data-func="vwKeys">Ключевые фразы</a></li>
                                         <li class="dt-blank">&nbsp;</li>
                                         <li><a href="javascript:void(0);" data-func="vwAlts">Image alts</a></li>
                                         <li><a href="javascript:void(0);" data-func="vwFrames">iFrames</a></li>
-                                        <li><a href="javascript:void(0);" data-func="vwHidden">Hidden</a></li>
+                                        <li><a href="javascript:void(0);" data-func="vwHidden">Скрытый контент</a></li>
                                         <li class="dt-blank">&nbsp;</li>
-                                        <li><a href="javascript:void(0);" data-func="viewHTML">View HTML</a></li>
+                                        <li><a href="javascript:void(0);" data-func="viewHTML">Посмотреть HTML код</a></li>
                                     </ul>
                                 </li>
                             </ul>
