@@ -1,5 +1,5 @@
 javascript: (function() {
-            var scriptSrc = 'https://cdn.jsdelivr.net/gh/imeyk/seo_bookmarklet/bookmarklet.js';
+            var scriptSrc = 'https://cdn.jsdelivr.net/gh/imeyk/seo_bookmarklet/bookmarklet.min.js';
             if (!document.querySelector('script[src="' + scriptSrc + '"]')) {
                 var script = document.createElement('script');
                 script.src = scriptSrc;
