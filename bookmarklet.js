@@ -1,5 +1,5 @@
 javascript: (function() {
-            var scriptSrc = 'https://devakatalk.com/bookmarklet.js';
+            var scriptSrc = 'https://imeyk.ru/bookmarklet.js';
             if (!document.querySelector('script[src="' + scriptSrc + '"]')) {
                 var script = document.createElement('script');
                 script.src = scriptSrc;
